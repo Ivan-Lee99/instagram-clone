@@ -1,0 +1,23 @@
+syntax = "proto3";
+
+
+package User;
+
+service User {
+
+    // Create user
+
+    // Update user (?)
+
+    // Delete user
+
+    // Get user
+
+    // Follow user
+
+    // Unfollow user
+
+    // Get followers (?)
+
+    // Get followees
+}
