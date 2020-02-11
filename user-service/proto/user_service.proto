@@ -49,7 +49,7 @@ message DeleteUserRequest {
     string account_id = 1;
 }
 
-message DeleteResponse {
+message DeleteUserResponse {
     DeleteUserStatus status = 1;
 }
 
